@@ -1,11 +1,11 @@
 {
-    "name": "hello_world",
-    "short_name": "hello_world",
+    "name": "CivicConnect",
+    "short_name": "CivicConnect",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Report and track civic issues in your community.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
